@@ -1,1 +1,1 @@
-Used for 9001 final project
+The calculator, used for 9001 final project
